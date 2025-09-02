@@ -6,7 +6,7 @@ Web Developer • Aspiring Full-Stack Engineer
 -----------------
 
 🌍  I'm based in Algeria.  
-✉️  You can reach me at zakaria.dev.contact@gmail.com.  
+✉️  You can reach me on my discord : "loblob.".  
 🚀  I'm currently learning and building full-stack web apps.  
 🧠  Diving deeper into TypeScript, PostgreSQL, and Next.js.  
 🤝  Open to collaborating on web-based tools, SaaS ideas, or anything cool and useful.  
